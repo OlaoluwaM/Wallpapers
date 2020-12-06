@@ -1,0 +1,15 @@
+{
+  "name": "Wallpapers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Olaoluwa Mustapha <jomeemustapha@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tar": "^6.0.5"
+  }
+}

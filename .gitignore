@@ -1,0 +1,4 @@
+*.jpg
+*.png
+*.tar
+node_modules
