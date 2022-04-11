@@ -1,2 +1,4 @@
 tarball/*.tar.gz
 images/*
+tmp/*
+tmp2/*
